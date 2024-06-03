@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+file number 4
+=======
 main branch file four
+>>>>>>> main
